@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/halal.wav-6f59b50f849d0f2ac94bd8686c7517ef.sample"
+
+[deps]
+
+source_file="res://halal.wav"
+dest_files=[ "res://.import/halal.wav-6f59b50f849d0f2ac94bd8686c7517ef.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
